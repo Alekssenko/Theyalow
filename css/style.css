@@ -41,7 +41,7 @@ body {
   font-family: MyriadPro,sans-serif, Helvetica;
   margin: 0 auto;
   font-size: 14px; }
-
+/*--------------------------------container-------------------------------*/
 .container {
   max-width: 1300px;
   margin: 0 auto;
@@ -63,7 +63,7 @@ body {
     .container {
       padding-left: 15px;
       padding-right: 15px; } }
-
+/*===============================header===================================*/
 .row {
   display: flex;
   justify-content: space-between;
@@ -95,7 +95,7 @@ body {
       text-transform: uppercase;
       line-height: 1.2;
       text-align: center; }
-
+/*=========================================nav==================================*/
 .nav {
   width: 50%;
   display: flex;
@@ -139,7 +139,7 @@ body {
 .banner {
   position: relative;
   padding-top: 40px; }
-
+/*=======================================player==========================*/
 .player__item {
   display: flex !important;
   justify-content: space-between; }
@@ -217,7 +217,7 @@ h2 {
     text-transform: uppercase; }
   .offer__item:first-child {
     border-left: 1px solid #d0d0d0; }
-
+/*===============================================view====================================*/
 .view {
   background: url("../img/Layer 10 copy 3.png");
   padding-bottom: 15px; }
@@ -302,7 +302,7 @@ h2 {
     display: inline-block;
     font-size: 25px;
     color: white; }
-
+/*--------------------------------------progress-------------------------------*/
 .progress {
   background-color: #fae284;
   height: 15px;
@@ -323,7 +323,7 @@ h2 {
   font-size: 38px;
   padding: 15px 25px 10px;
   background-color: #ddb101; }
-
+/*----------------------------------different-----------------------------------*/
 .different {
   background: url("../img/Layer 33.png") no-repeat;
   background-size: cover;
@@ -393,7 +393,7 @@ h2 {
 
 .second > img:last-of-type {
   margin-bottom: 0; }
-
+/*======================================footer=================================*/
 .footer {
   background-color: #474747;
   color: white;
